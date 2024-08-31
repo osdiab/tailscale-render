@@ -1,8 +1,6 @@
 # Run Tailscale on Render as a connector
 
-## This is a fork that includes an $ADVERTISE_TAGS environment variable for using the [Tailscale app connectors](https://tailscale.com/kb/1281/app-connectors#add-an-app-connector) feature
-
-Set the above environment variable to the tag you want.
+## This is a fork that lets you use this as an exit node.
 
 ![image](https://github.com/render-examples/tailscale/assets/168030/2513267e-6503-45c6-b596-3713160ae4ec)
 
